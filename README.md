@@ -105,3 +105,13 @@ I built a lightweight log aggregation service that receives logs from multiple s
 4. **In another terminal, test the API**
    ```bash
    curl http://localhost:5000/api/health
+
+#### 🔧 Upcoming Projects
+
+| Project | Technologies | Status |
+|------------|---------|----------|
+| **Python 3.8+** | Core programming language |
+| **Flask** | Web framework for REST API |
+| **Docker** | Containerization and deployment |
+| **Git** | Version control |
+| **JSON** | Log storage format |
