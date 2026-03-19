@@ -31,9 +31,15 @@ Each project includes code, documentation, and screenshots showing real function
 
 ## 🚀 Featured Projects
 
-### 📊 Distributed Log Monitoring Tool
+### Distributed Log Monitoring Tool
 
 *A Python-based solution for collecting, processing, and analyzing system logs through a RESTful API.*
+
+<p align="center">
+  <a href="https://github.com/dianadesiree/distributed-log-monitoring-tool">
+    <img src="https://img.shields.io/badge/🔗_View_Full_Project-Repository-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 #### ❓ The Problem
 In production environments, logs are generated at high velocity and contain critical information for debugging and monitoring. Manual log analysis is inefficient and error-prone.
