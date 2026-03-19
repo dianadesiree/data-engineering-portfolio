@@ -114,4 +114,25 @@ I built a lightweight log aggregation service that receives logs from multiple s
 | **Cloud Infrastructure Labs** | Azure, AWS, Docker | ⏳ In Progress |
 | **Data Analysis Portfolio** | Pandas, SQL, Jupyter | 📅 Planned |
 
+#### 🛠️ Technical Skills
 
+| Category | Technologies |
+|------------|---------|
+| **Languages** | Python, SQL, R, Java, C#, JavaScript, Bash, PowerShell |
+| **Data Analysis** | Pandas, NumPy, Data Cleaning, EDA, Visualization |
+| **Databases** | MySQL, PostgreSQL, MongoDB, NoSQL |
+| **Cloud & DevOps** | AWS (Cloud 101), Azure (VMs, AKS), Docker, CI/CD, Agile, Scrum |
+| **Tools** | Git, GitHub, Postman, Jupyter Notebooks |
+
+#### 🎓 Education & Certifications
+
+#### Education
+
+| Degree | Institution | GPA | Status |
+|------------|---------|----------|
+| **MBA - Information Systems Management** | Keller Graduate School of Management | 4.0 | In Progress (Expected 08/2027) |
+| **B.S. - Computer Information Systems** | DeVry University | 4.0 | Completed 08/2024 |
+| **A.A.S. - Information Technology & Networking** | DeVry University | 4.0 | Completed 08/2023 |
+| **A.A.S. - Education** | Lord Fairfax Community College | 3.67 | Completed 08/2021 |
+
+#### Certifications
