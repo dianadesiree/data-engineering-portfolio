@@ -144,3 +144,27 @@ I built a lightweight log aggregation service that receives logs from multiple s
 - ✅ **AWS Educate: Introduction to Cloud 101** - Amazon Web Services
 - ✅ **Foundational C# with Microsoft** - freeCodeCamp
 - ✅ **Deploy Containers Using Azure Kubernetes Service** - Microsoft
+
+## 📬 Let's Connect!
+
+I'm actively seeking **Entry-Level Data Scientist / Data Analyst** opportunities. If you'd like to collaborate or discuss potential projects:
+
+| | |
+|---|---|
+| 📧 **Email** | [dianadaraujo78@gmail.com](mailto:dianadaraujo78@gmail.com) |
+| 🔗 **LinkedIn** | [linkedin.com/in/dianadaraujo](https://www.linkedin.com/in/dianadaraujo) |
+| 🌐 **Portfolio** | [dianadesiree3.wixsite.com/my-site](https://dianadesiree3.wixsite.com/my-site) |
+| 🐙 **GitHub** | [github.com/dianadesiree](https://github.com/dianadesiree) |
+
+---
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+to+connect!;Open+to+opportunities!" alt="Typing SVG" />
+  <br><br>
+  
+  ⭐️ **If you find my projects helpful, please consider giving them a star!** ⭐️
+  
+  <br>
+  <sub>© 2026 Diana Araujo. All rights reserved.</sub>
+</div>
