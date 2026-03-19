@@ -96,3 +96,12 @@ I built a lightweight log aggregation service that receives logs from multiple s
    ```bash
    git clone https://github.com/dianadesiree/distributed-log-monitoring-tool.git
    cd distributed-log-monitoring-tool
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the API**
+    ```bash
+    python -m app.api
+4. **In another terminal, test the API**
+   ```bash
+   curl http://localhost:5000/api/health
