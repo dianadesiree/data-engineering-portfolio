@@ -124,15 +124,23 @@ I built a lightweight log aggregation service that receives logs from multiple s
 | **Cloud & DevOps** | AWS (Cloud 101), Azure (VMs, AKS), Docker, CI/CD, Agile, Scrum |
 | **Tools** | Git, GitHub, Postman, Jupyter Notebooks |
 
-#### 🎓 Education & Certifications
+## 🎓 Education & Certifications
 
-#### Education
+### Education
 
 | Degree | Institution | GPA | Status |
-|------------|---------|----------|
+|--------|-------------|-----|--------|
 | **MBA - Information Systems Management** | Keller Graduate School of Management | 4.0 | In Progress (Expected 08/2027) |
 | **B.S. - Computer Information Systems** | DeVry University | 4.0 | Completed 08/2024 |
 | **A.A.S. - Information Technology & Networking** | DeVry University | 4.0 | Completed 08/2023 |
 | **A.A.S. - Education** | Lord Fairfax Community College | 3.67 | Completed 08/2021 |
 
-#### Certifications
+### Certifications
+
+- ✅ **Getting Started with Git and GitHub** - IBM
+- ✅ **ServiceNow System Administrator** - Packt
+- ✅ **Introduction to Agile Development and Scrum** - IBM
+- ✅ **Introduction to Cloud Computing** - IBM
+- ✅ **AWS Educate: Introduction to Cloud 101** - Amazon Web Services
+- ✅ **Foundational C# with Microsoft** - freeCodeCamp
+- ✅ **Deploy Containers Using Azure Kubernetes Service** - Microsoft
