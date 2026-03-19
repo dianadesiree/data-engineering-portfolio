@@ -1,2 +1,248 @@
-# data-engineering-portfolio
-A collection of my data engineering and data science projects showcasing Python, Flask, Docker, and API development
+# <h1 align="center">📊 Data Engineering \& Analytics Portfolio</h1>
+
+# <h3 align="center">Diana Araujo • Entry-Level Data Scientist • Data Analyst</h3>
+
+# 
+
+# <p align="center">
+
+# &#x20; <a href="https://www.linkedin.com/in/dianadaraujo"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin"></a>
+
+# &#x20; <a href="https://github.com/dianadesiree"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github"></a>
+
+# &#x20; <a href="mailto:dianadaraujo78@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail"></a>
+
+# </p>
+
+# 
+
+# \---
+
+# 
+
+# \## 🎯 About This Portfolio
+
+# 
+
+# Welcome to my data engineering portfolio! I'm an \*\*Entry-Level Data Scientist / Data Analyst\*\* with a B.S. in Computer Information Systems (GPA 4.0) and an MBA in Information Systems Management in progress (GPA 4.0).
+
+# 
+
+# This repository showcases my hands-on projects demonstrating:
+
+# \- \*\*Python Development\*\* • \*\*API Design\*\* • \*\*Docker Containerization\*\*
+
+# \- \*\*Log Analysis\*\* • \*\*Data Processing\*\* • \*\*Automation Scripts\*\*
+
+# \- \*\*Cloud Technologies\*\* (AWS/Azure) • \*\*Version Control with Git\*\*
+
+# 
+
+# Each project includes code, documentation, and screenshots showing real functionality.
+
+# 
+
+# \---
+
+# 
+
+# \## 📂 Featured Projects
+
+# 
+
+# \### 🚀 \[Distributed Log Monitoring Tool](./projects/log-monitoring-tool)
+
+# 
+
+# \*A Python-based solution for collecting, processing, and analyzing system logs through a RESTful API.\*
+
+# 
+
+# \*\*📝 The Problem:\*\* In production environments, logs are generated at high velocity and contain critical information for debugging and monitoring. Manual log analysis is inefficient and error-prone.
+
+# 
+
+# \*\*💡 My Solution:\*\* I built a lightweight log aggregation service that receives logs from multiple sources, stores them efficiently, and exposes real-time metrics through a clean API interface. This project demonstrates skills directly applicable to my \*\*Technical Operations Internship at Exostar\*\*, where I analyzed system logs to identify patterns and troubleshoot issues.
+
+# 
+
+# \*\*🛠️ Technologies Used:\*\*
+
+# \- \*\*Python 3.8+\*\* • \*\*Flask\*\* • \*\*REST API\*\* • \*\*Docker\*\* • \*\*Git\*\* • \*\*JSON\*\*
+
+# 
+
+# \*\*✨ Key Features:\*\*
+
+# \- 📥 \*\*Log Collection\*\*: POST endpoint to receive logs from multiple sources
+
+# \- 🔍 \*\*Log Retrieval\*\*: Query logs by date, level, and source
+
+# \- 📊 \*\*Metrics Generation\*\*: Real-time statistics on error rates and log distribution
+
+# \- 🗑️ \*\*Log Management\*\*: Delete logs by date for data retention
+
+# \- 🐳 \*\*Containerized\*\*: Docker support for easy deployment
+
+# 
+
+# \*\*📸 Demo Screenshots:\*\*
+
+# 
+
+# <details>
+
+# <summary><b>👉 Click to see the API in action</b></summary>
+
+# 
+
+# | | |
+
+# |:---:|:---:|
+
+# | \*\*API Running\*\* | \*\*Health Check\*\* |
+
+# | !\[API Running](images/api-running.png) | !\[Health Check](images/health-check.png) |
+
+# | \*Flask server running locally\* | \*Simple endpoint to verify service status\* |
+
+# 
+
+# | \*\*POST Request - Sending Logs\*\* | \*\*GET Request - Retrieving Logs\*\* |
+
+# |:---:|:---:|
+
+# | !\[POST Request](images/post-request.png) | !\[GET Logs](images/logs-error.png) |
+
+# | \*Sending structured log data via curl\* | \*Querying logs filtered by ERROR level\* |
+
+# 
+
+# | \*\*Metrics Response\*\* |
+
+# |:---:|
+
+# | !\[Metrics](images/metrics-response.png) |
+
+# | \*Real-time statistics showing log distribution by level\* |
+
+# 
+
+# </details>
+
+# 
+
+# \*\*📋 How to Run:\*\*
+
+# ```bash
+
+# \# Clone the project repository
+
+# git clone https://github.com/dianadesiree/distributed-log-monitoring-tool.git
+
+# cd distributed-log-monitoring-tool
+
+# 
+
+# \# Install dependencies
+
+# pip install -r requirements.txt
+
+# 
+
+# \# Run the API
+
+# python -m app.api
+
+# 
+
+# \# In another terminal, test it
+
+# curl http://localhost:5000/api/health
+
+
+
+🔗 View Full Project Repository →
+
+
+
+🔧 Upcoming Projects
+
+Project	Technologies	Status
+
+System Automation Scripts	Python, PowerShell, Bash	⏳ In Progress
+
+Cloud Infrastructure Labs	Azure, AWS, Docker	⏳ In Progress
+
+Data Analysis Portfolio	Pandas, SQL, Jupyter	📅 Planned
+
+🛠️ Technical Skills
+
+Category	Technologies
+
+Languages	Python, SQL, R, Java, C#, JavaScript, Bash, PowerShell
+
+Data Analysis	Pandas, NumPy, Data Cleaning, EDA, Visualization
+
+Databases	MySQL, PostgreSQL, MongoDB, NoSQL
+
+Cloud \& DevOps	AWS (Cloud 101), Azure (VMs, AKS), Docker, CI/CD, Agile, Scrum
+
+Tools	Git, GitHub, Postman, Jupyter Notebooks
+
+🎓 Education \& Certifications
+
+MBA - Information Systems Management (In Progress)
+
+Keller Graduate School of Management • GPA: 4.0 • Expected 08/2027
+
+
+
+B.S. - Computer Information Systems
+
+DeVry University • GPA: 4.0 • 08/2024
+
+
+
+Certifications:
+
+
+
+Getting Started with Git and GitHub - IBM
+
+
+
+ServiceNow System Administrator - Packt
+
+
+
+Introduction to Agile Development and Scrum - IBM
+
+
+
+Introduction to Cloud Computing - IBM
+
+
+
+AWS Educate: Introduction to Cloud 101
+
+
+
+Foundational C# with Microsoft - freeCodeCamp
+
+
+
+Deploy Containers Using Azure Kubernetes Service - Microsoft
+
+
+
+📬 Let's Connect!
+
+I'm actively seeking Entry-Level Data Scientist / Data Analyst opportunities. If you'd like to collaborate or discuss potential roles:
+
+
+
+<p align="center"> <a href="https://www.linkedin.com/in/dianadaraujo"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin"></a> <a href="https://dianadesiree3.wixsite.com/my-site"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=firefox"></a> <a href="mailto:dianadaraujo78@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail"></a> </p>
+
+<p align="center">⭐️ If you find my projects interesting, please consider giving them a star! ⭐️</p> ```
+
