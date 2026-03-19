@@ -110,8 +110,8 @@ I built a lightweight log aggregation service that receives logs from multiple s
 
 | Project | Technologies | Status |
 |------------|---------|----------|
-| **Python 3.8+** | Core programming language |
-| **Flask** | Web framework for REST API |
-| **Docker** | Containerization and deployment |
-| **Git** | Version control |
-| **JSON** | Log storage format |
+| **System Automation Scripts** | Python, PowerShell, Bash | ⏳ In Progress |
+| **Cloud Infrastructure Labs** | Azure, AWS, Docker | ⏳ In Progress |
+| **Data Analysis Portfolio** | Pandas, SQL, Jupyter | ⏳ In Progress |
+
+
