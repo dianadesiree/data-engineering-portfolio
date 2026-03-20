@@ -116,7 +116,7 @@ I built a lightweight log aggregation service that receives logs from multiple s
 
 | Project | Technologies | Status |
 |------------|---------|----------|
-| **System Automation Scripts** | Python, PowerShell, Bash | ⏳ In Progress |
+| **System Automation Scripts** | Python, PowerShell, Bash | Completed |
 | **Cloud Infrastructure Labs** | Azure, AWS, Docker | ⏳ In Progress |
 | **Data Analysis Portfolio** | Pandas, SQL, Jupyter | 📅 Planned |
 
